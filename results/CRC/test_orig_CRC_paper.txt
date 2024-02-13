@@ -1,0 +1,434 @@
+/home/mongardi/Metagene_repo/results/CRC/multi_lasso_gis_go_reactome_hpo_test_paper
+(620, 17559)
+<class 'numpy.int64'>
+<class 'numpy.int64'>
+Number of genes with no go or Reactome or hpo annotations:  234
+split:  0
+-------------------Training-------------------
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+The best C paramter: {'Model__C': 0.5}
+The CV accuracy of the corresponding model is: 0.7721212121212122
+-------------------Testing-------------------
+420 features were used in this model plus the intercept
+split:  1
+-------------------Training-------------------
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+The best C paramter: {'Model__C': 0.5}
+The CV accuracy of the corresponding model is: 0.7721212121212122
+-------------------Testing-------------------
+420 features were used in this model plus the intercept
+split:  2
+-------------------Training-------------------
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+The best C paramter: {'Model__C': 0.5}
+The CV accuracy of the corresponding model is: 0.7721212121212122
+-------------------Testing-------------------
+420 features were used in this model plus the intercept
+split:  3
+-------------------Training-------------------
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+The best C paramter: {'Model__C': 0.5}
+The CV accuracy of the corresponding model is: 0.7721212121212122
+-------------------Testing-------------------
+420 features were used in this model plus the intercept
+split:  4
+-------------------Training-------------------
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+The best C paramter: {'Model__C': 0.5}
+The CV accuracy of the corresponding model is: 0.7721212121212122
+-------------------Testing-------------------
+420 features were used in this model plus the intercept
+split:  5
+-------------------Training-------------------
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+The best C paramter: {'Model__C': 0.5}
+The CV accuracy of the corresponding model is: 0.7721212121212122
+-------------------Testing-------------------
+420 features were used in this model plus the intercept
+split:  6
+-------------------Training-------------------
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+The best C paramter: {'Model__C': 0.5}
+The CV accuracy of the corresponding model is: 0.7721212121212122
+-------------------Testing-------------------
+420 features were used in this model plus the intercept
+split:  7
+-------------------Training-------------------
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+The best C paramter: {'Model__C': 0.5}
+The CV accuracy of the corresponding model is: 0.7721212121212122
+-------------------Testing-------------------
+420 features were used in this model plus the intercept
+split:  8
+-------------------Training-------------------
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+The best C paramter: {'Model__C': 0.5}
+The CV accuracy of the corresponding model is: 0.7721212121212122
+-------------------Testing-------------------
+420 features were used in this model plus the intercept
+split:  9
+-------------------Training-------------------
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+[0.8246387  0.87428384 0.84825505 ... 0.86453709 0.82899154 0.85096265]
+The best C paramter: {'Model__C': 0.5}
+The CV accuracy of the corresponding model is: 0.7721212121212122
+-------------------Testing-------------------
+420 features were used in this model plus the intercept
+------------------- Results-------------------
+Cross val accuracy: 0.7721212121212122 sd:  0.0
+Cross val recall: 0.752237069168648 sd:  1.1102230246251565e-16
+Cross val precision: 0.7636114989478926 sd:  0.0
+----- Test Results----
+balanced_accuracy    0.83103
+accuracy             0.83871
+precision            0.83296
+recall               0.83103
+f1_macro             0.82875
+f1_weighted          0.84054
+CRIS.A-precision     0.87097
+CRIS.B-precision     0.85714
+CRIS.C-precision     0.96667
+CRIS.D-precision     0.72000
+CRIS.E-precision     0.75000
+CRIS.A-recall        0.84375
+CRIS.B-recall        0.75000
+CRIS.C-recall        0.87879
+CRIS.D-recall        0.90000
+CRIS.E-recall        0.78261
+CRIS.A-f1_score      0.85714
+CRIS.B-f1_score      0.80000
+CRIS.C-f1_score      0.92063
+CRIS.D-f1_score      0.80000
+CRIS.E-f1_score      0.76596
+dtype: float64
+balanced_accuracy    1.170278e-16
+accuracy             1.170278e-16
+precision            1.170278e-16
+recall               1.170278e-16
+f1_macro             0.000000e+00
+f1_weighted          1.170278e-16
+CRIS.A-precision     0.000000e+00
+CRIS.B-precision     0.000000e+00
+CRIS.C-precision     0.000000e+00
+CRIS.D-precision     0.000000e+00
+CRIS.E-precision     0.000000e+00
+CRIS.A-recall        0.000000e+00
+CRIS.B-recall        0.000000e+00
+CRIS.C-recall        1.170278e-16
+CRIS.D-recall        0.000000e+00
+CRIS.E-recall        0.000000e+00
+CRIS.A-f1_score      0.000000e+00
+CRIS.B-f1_score      0.000000e+00
+CRIS.C-f1_score      1.170278e-16
+CRIS.D-f1_score      0.000000e+00
+CRIS.E-f1_score      0.000000e+00
+dtype: float64
+Intersection: 420
+Union: 420
+420
+420
+(20108, 47484)
+(5011, 17895)
+30817
+100303755
+1565
+79631
+2215
+--------------------------
+CRIS.A
+--------------------------
+Number of selected genes: 72
+------------GO------------
+----significant annotations----
+(17559, 47484)
+Number of total annotations: 7667
+Total:  17559 => Check sum:  17559
+Number of total unique annotations: 2520 / 47484
+Number of test performed:  2520
+Number of significant annotations with BH:  41
+Percentage:  1.626984126984127
+[ 0.09133837  0.63157895  0.37318911  0.02206394 -0.44884652 -0.761607
+  0.14187921  0.29423441  0.42329148  0.47032386  0.52631579]
+Done writing dict into .json file
+
+------------KEGG------------
+(17559, 355)
+Number of total pathways: 196
+Total:  17559 => Check  sum:  17559
+Number of total unique pathways: 136 / 355
+Number of test performed:  136
+Number of significant pathways with BH:  3
+Percentage:  2.2058823529411766
+
+------------Reactome------------
+(17559, 2610)
+Number of total pathways: 413
+Total:  17559 => Check  sum:  17559
+Number of total unique pathways: 253 / 2610
+Number of test performed:  253
+Number of significant pathways with BH:  3
+Percentage:  1.1857707509881423
+------------hpo------------
+(17559, 17895)
+Number of total annotations: 3196
+Total:  17559 => Check sum:  17559
+Number of total unique annotations: 1542 / 17895
+Number of test performed:  1542
+Number of significant annotations with BH:  1
+Done writing dict into .json file
+--------------------------
+CRIS.B
+--------------------------
+Number of selected genes: 94
+------------GO------------
+----significant annotations----
+(17559, 47484)
+Number of total annotations: 9776
+Total:  17559 => Check sum:  17559
+Number of total unique annotations: 2781 / 47484
+Number of test performed:  2781
+Number of significant annotations with BH:  3
+Percentage:  0.10787486515641856
+[ 0.06612141  0.61538462  0.25805963  0.0959371   0.70126567 -1.5
+  0.0714317   0.07939714  0.09267288  0.35402875  0.51084227]
+Done writing dict into .json file
+
+------------KEGG------------
+(17559, 355)
+Number of total pathways: 160
+Total:  17559 => Check  sum:  17559
+Number of total unique pathways: 114 / 355
+Number of test performed:  114
+Number of significant pathways with BH:  0
+Percentage:  0.0
+
+------------Reactome------------
+(17559, 2610)
+Number of total pathways: 680
+Total:  17559 => Check  sum:  17559
+Number of total unique pathways: 406 / 2610
+Number of test performed:  406
+Number of significant pathways with BH:  2
+Percentage:  0.49261083743842365
+------------hpo------------
+(17559, 17895)
+Number of total annotations: 7098
+Total:  17559 => Check sum:  17559
+Number of total unique annotations: 2384 / 17895
+Number of test performed:  2384
+Number of significant annotations with BH:  2
+Done writing dict into .json file
+--------------------------
+CRIS.C
+--------------------------
+Number of selected genes: 81
+------------GO------------
+----significant annotations----
+(17559, 47484)
+Number of total annotations: 9058
+Total:  17559 => Check sum:  17559
+Number of total unique annotations: 2789 / 47484
+Number of test performed:  2789
+Number of significant annotations with BH:  37
+Percentage:  1.3266403728935101
+[ 0.04005947  0.6379607   0.26045889  0.02223705  0.70186686 -0.50581454
+  0.11286445  0.15106686  0.2103462   0.37625909  0.46174249]
+Done writing dict into .json file
+
+------------KEGG------------
+(17559, 355)
+Number of total pathways: 196
+Total:  17559 => Check  sum:  17559
+Number of total unique pathways: 134 / 355
+Number of test performed:  134
+Number of significant pathways with BH:  1
+Percentage:  0.746268656716418
+
+------------Reactome------------
+(17559, 2610)
+Number of total pathways: 681
+Total:  17559 => Check  sum:  17559
+Number of total unique pathways: 409 / 2610
+Number of test performed:  409
+Number of significant pathways with BH:  4
+Percentage:  0.9779951100244498
+------------hpo------------
+(17559, 17895)
+Number of total annotations: 3711
+Total:  17559 => Check sum:  17559
+Number of total unique annotations: 1590 / 17895
+Number of test performed:  1590
+Number of significant annotations with BH:  0
+Done writing dict into .json file
+--------------------------
+CRIS.D
+--------------------------
+Number of selected genes: 104
+------------GO------------
+----significant annotations----
+(17559, 47484)
+Number of total annotations: 12128
+Total:  17559 => Check sum:  17559
+Number of total unique annotations: 3364 / 47484
+Number of test performed:  3364
+Number of significant annotations with BH:  0
+Percentage:  0.0
+Done writing dict into .json file
+
+------------KEGG------------
+(17559, 355)
+Number of total pathways: 235
+Total:  17559 => Check  sum:  17559
+Number of total unique pathways: 147 / 355
+Number of test performed:  147
+Number of significant pathways with BH:  0
+Percentage:  0.0
+
+------------Reactome------------
+(17559, 2610)
+Number of total pathways: 609
+Total:  17559 => Check  sum:  17559
+Number of total unique pathways: 377 / 2610
+Number of test performed:  377
+Number of significant pathways with BH:  0
+Percentage:  0.0
+------------hpo------------
+(17559, 17895)
+Number of total annotations: 7203
+Total:  17559 => Check sum:  17559
+Number of total unique annotations: 2413 / 17895
+Number of test performed:  2413
+Number of significant annotations with BH:  0
+Done writing dict into .json file
+--------------------------
+CRIS.E
+--------------------------
+Number of selected genes: 96
+------------GO------------
+----significant annotations----
+(17559, 47484)
+Number of total annotations: 9531
+Total:  17559 => Check sum:  17559
+Number of total unique annotations: 2853 / 47484
+Number of test performed:  2853
+Number of significant annotations with BH:  0
+Percentage:  0.0
+Done writing dict into .json file
+
+------------KEGG------------
+(17559, 355)
+Number of total pathways: 171
+Total:  17559 => Check  sum:  17559
+Number of total unique pathways: 118 / 355
+Number of test performed:  118
+Number of significant pathways with BH:  0
+Percentage:  0.0
+
+------------Reactome------------
+(17559, 2610)
+Number of total pathways: 357
+Total:  17559 => Check  sum:  17559
+Number of total unique pathways: 222 / 2610
+Number of test performed:  222
+Number of significant pathways with BH:  0
+Percentage:  0.0
+------------hpo------------
+(17559, 17895)
+Number of total annotations: 5166
+Total:  17559 => Check sum:  17559
+Number of total unique annotations: 1842 / 17895
+Number of test performed:  1842
+Number of significant annotations with BH:  1
+Done writing dict into .json file
+--------------------------
+all
+--------------------------
+Number of selected genes: 420
+------------GO------------
+----significant annotations----
+(17559, 47484)
+Number of total annotations: 45219
+Total:  17559 => Check sum:  17559
+Number of total unique annotations: 6689 / 47484
+Number of test performed:  6689
+Number of significant annotations with BH:  21
+Percentage:  0.3139482732844969
+[0.04488958 0.44188994 0.16827701 0.01381593 1.18572784 0.47077534
+ 0.05954239 0.09267288 0.13055952 0.20543498 0.36452948]
+Done writing dict into .json file
+
+------------KEGG------------
+(17559, 355)
+Number of total pathways: 886
+Total:  17559 => Check  sum:  17559
+Number of total unique pathways: 281 / 355
+Number of test performed:  281
+Number of significant pathways with BH:  1
+Percentage:  0.35587188612099646
+
+------------Reactome------------
+(17559, 2610)
+Number of total pathways: 2514
+Total:  17559 => Check  sum:  17559
+Number of total unique pathways: 987 / 2610
+Number of test performed:  987
+Number of significant pathways with BH:  0
+Percentage:  0.0
+------------hpo------------
+(17559, 17895)
+Number of total annotations: 25011
+Total:  17559 => Check sum:  17559
+Number of total unique annotations: 4226 / 17895
+Number of test performed:  4226
+Number of significant annotations with BH:  0
+Done writing dict into .json file
+10

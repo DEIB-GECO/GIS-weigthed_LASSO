@@ -1,0 +1,922 @@
+Symbol,Description,Category,Score
+CTNNB1,Catenin Beta 1,Protein Coding,1468.05
+BRAF,"B-Raf Proto-Oncogene, Serine/Threonine Kinase",Protein Coding,1459.02
+PIK3CA,"Phosphatidylinositol-4,5-Bisphosphate 3-Kinase Catalytic Subunit Alpha",Protein Coding,1426.12
+PDGFRL,Platelet Derived Growth Factor Receptor Like,Protein Coding,1347.56
+TP53,Tumor Protein P53,Protein Coding,1168.06
+APC,APC Regulator Of WNT Signaling Pathway,Protein Coding,1150.85
+AXIN2,Axin 2,Protein Coding,1134.75
+BAX,"BCL2 Associated X, Apoptosis Regulator",Protein Coding,1094.27
+AKT1,AKT Serine/Threonine Kinase 1,Protein Coding,1093.89
+EP300,E1A Binding Protein P300,Protein Coding,1091.71
+NRAS,"NRAS Proto-Oncogene, GTPase",Protein Coding,1088.14
+MLH3,MutL Homolog 3,Protein Coding,1083.42
+DCC,DCC Netrin 1 Receptor,Protein Coding,1081.36
+MCC,MCC Regulator Of WNT Signaling Pathway,Protein Coding,1069.19
+FLCN,Folliculin,Protein Coding,1066.99
+BUB1B,BUB1 Mitotic Checkpoint Serine/Threonine Kinase B,Protein Coding,1055.14
+FGFR3,Fibroblast Growth Factor Receptor 3,Protein Coding,1051.79
+DLC1,DLC1 Rho GTPase Activating Protein,Protein Coding,1038.46
+PTPRJ,Protein Tyrosine Phosphatase Receptor Type J,Protein Coding,1034.17
+BUB1,BUB1 Mitotic Checkpoint Serine/Threonine Kinase,Protein Coding,1030.47
+RAD54B,RAD54 Homolog B,Protein Coding,1024.03
+PTPN12,Protein Tyrosine Phosphatase Non-Receptor Type 12,Protein Coding,1023.56
+MLH1,MutL Homolog 1,Protein Coding,845.09
+MSH2,MutS Homolog 2,Protein Coding,837.9
+MSH6,MutS Homolog 6,Protein Coding,837.37
+CCND1,Cyclin D1,Protein Coding,780.13
+AURKA,Aurora Kinase A,Protein Coding,736.76
+TLR2,Toll Like Receptor 2,Protein Coding,717.41
+PLA2G2A,Phospholipase A2 Group IIA,Protein Coding,673.54
+SRC,"SRC Proto-Oncogene, Non-Receptor Tyrosine Kinase",Protein Coding,668.44
+SMAD4,SMAD Family Member 4,Protein Coding,508.67
+PMS2,"PMS1 Homolog 2, Mismatch Repair System Component",Protein Coding,508.25
+CDH1,Cadherin 1,Protein Coding,494.31
+MUTYH,MutY DNA Glycosylase,Protein Coding,489.95
+PMS1,"PMS1 Homolog 1, Mismatch Repair System Component",Protein Coding,476.62
+CHEK2,Checkpoint Kinase 2,Protein Coding,475.46
+CTNNA1,Catenin Alpha 1,Protein Coding,474.92
+EPCAM,Epithelial Cell Adhesion Molecule,Protein Coding,474.86
+ATM,ATM Serine/Threonine Kinase,Protein Coding,468.11
+BRCA2,BRCA2 DNA Repair Associated,Protein Coding,467.93
+IGF2,Insulin Like Growth Factor 2,Protein Coding,458.21
+ERBB2,Erb-B2 Receptor Tyrosine Kinase 2,Protein Coding,457.7
+MET,"MET Proto-Oncogene, Receptor Tyrosine Kinase",Protein Coding,456.9
+PALB2,Partner And Localizer Of BRCA2,Protein Coding,453.72
+PPARG,Peroxisome Proliferator Activated Receptor Gamma,Protein Coding,451.66
+POLE,"DNA Polymerase Epsilon, Catalytic Subunit",Protein Coding,450.32
+BRIP1,BRCA1 Interacting Helicase 1,Protein Coding,446.43
+AMER1,APC Membrane Recruitment Protein 1,Protein Coding,446.24
+PIK3R1,Phosphoinositide-3-Kinase Regulatory Subunit 1,Protein Coding,445.69
+BRCA1,BRCA1 DNA Repair Associated,Protein Coding,445.34
+RET,Ret Proto-Oncogene,Protein Coding,440.63
+POLD1,"DNA Polymerase Delta 1, Catalytic Subunit",Protein Coding,440.43
+FGFR2,Fibroblast Growth Factor Receptor 2,Protein Coding,433.42
+SOX9,SRY-Box Transcription Factor 9,Protein Coding,432.37
+FBXW7,F-Box And WD Repeat Domain Containing 7,Protein Coding,426.02
+ARID1A,AT-Rich Interaction Domain 1A,Protein Coding,424.12
+BCL10,BCL10 Immune Signaling Adaptor,Protein Coding,422.03
+BLM,BLM RecQ Like Helicase,Protein Coding,419.19
+RAD51D,RAD51 Paralog D,Protein Coding,418.18
+FZD3,Frizzled Class Receptor 3,Protein Coding,417.12
+RBFOX1,RNA Binding Fox-1 Homolog 1,Protein Coding,416.25
+MT-ND1,Mitochondrially Encoded NADH:Ubiquinone Oxidoreductase Core Subunit 1,Protein Coding,412.32
+C11orf65,Chromosome 11 Open Reading Frame 65,Protein Coding,411.62
+DMD,Dystrophin,Protein Coding,411.25
+SLC9A9,Solute Carrier Family 9 Member A9,Protein Coding,410.58
+MYO1B,Myosin IB,Protein Coding,408.32
+PKHD1,PKHD1 Ciliary IPT Domain Containing Fibrocystin/Polyductin,Protein Coding,407.59
+TCERG1,Transcription Elongation Regulator 1,Protein Coding,407.45
+INS-IGF2,INS-IGF2 Readthrough,Protein Coding,406.26
+MT-CO1,Mitochondrially Encoded Cytochrome C Oxidase I,Protein Coding,336.16
+ZEB1,Zinc Finger E-Box Binding Homeobox 1,Protein Coding,203.36
+E2F4,E2F Transcription Factor 4,Protein Coding,195.66
+AGO2,Argonaute RISC Catalytic Component 2,Protein Coding,173.65
+TFDP1,Transcription Factor Dp-1,Protein Coding,170.76
+TUG1,Taurine Up-Regulated 1,Protein Coding,170.13
+UHRF1,Ubiquitin Like With PHD And Ring Finger Domains 1,Protein Coding,169.93
+SOX5,SRY-Box Transcription Factor 5,Protein Coding,165.52
+RHO,Rhodopsin,Protein Coding,165.23
+BLACAT1,BLACAT1 Overlapping LEMD1 Locus,Protein Coding,164.47
+TINCR,TINCR Ubiquitin Domain Containing,Protein Coding,158.89
+TMEM238L,Transmembrane Protein 238 Like,Protein Coding,156.95
+C10orf143,Chromosome 10 Open Reading Frame 143,Protein Coding,150
+IQANK1,IQ Motif And Ankyrin Repeat Containing 1,Protein Coding,150
+KRAS,"KRAS Proto-Oncogene, GTPase",Protein Coding,116.5
+PTGS2,Prostaglandin-Endoperoxide Synthase 2,Protein Coding,90.09
+EGFR,Epidermal Growth Factor Receptor,Protein Coding,85.63
+TGFBR2,Transforming Growth Factor Beta Receptor 2,Protein Coding,83.75
+ODC1,Ornithine Decarboxylase 1,Protein Coding,81.13
+TCF7L2,Transcription Factor 7 Like 2,Protein Coding,80.37
+CEACAM5,CEA Cell Adhesion Molecule 5,Protein Coding,80.23
+MYC,"MYC Proto-Oncogene, BHLH Transcription Factor",Protein Coding,79.22
+BCL2,BCL2 Apoptosis Regulator,Protein Coding,78.05
+CASP3,Caspase 3,Protein Coding,77.05
+CDKN1A,Cyclin Dependent Kinase Inhibitor 1A,Protein Coding,76.98
+MMP7,Matrix Metallopeptidase 7,Protein Coding,75.17
+TYMS,Thymidylate Synthetase,Protein Coding,74.6
+HRAS,"HRas Proto-Oncogene, GTPase",Protein Coding,72.11
+CD44,CD44 Molecule (Indian Blood Group),Protein Coding,71.84
+EGF,Epidermal Growth Factor,Protein Coding,71.29
+MGMT,O-6-Methylguanine-DNA Methyltransferase,Protein Coding,71.18
+KRT20,Keratin 20,Protein Coding,70.75
+MUC2,"Mucin 2, Oligomeric Mucus/Gel-Forming",Protein Coding,70.51
+BIRC5,Baculoviral IAP Repeat Containing 5,Protein Coding,69.92
+MMP9,Matrix Metallopeptidase 9,Protein Coding,69.85
+MMP2,Matrix Metallopeptidase 2,Protein Coding,69.45
+HIF1A,Hypoxia Inducible Factor 1 Subunit Alpha,Protein Coding,69.16
+CDX2,Caudal Type Homeobox 2,Protein Coding,68.91
+BCL2L1,BCL2 Like 1,Protein Coding,68.27
+CEACAM7,CEA Cell Adhesion Molecule 7,Protein Coding,66.31
+JUN,"Jun Proto-Oncogene, AP-1 Transcription Factor Subunit",Protein Coding,65.28
+CDX1,Caudal Type Homeobox 1,Protein Coding,65.28
+DNMT1,DNA Methyltransferase 1,Protein Coding,64.44
+MSH3,MutS Homolog 3,Protein Coding,64.37
+PLAU,"Plasminogen Activator, Urokinase",Protein Coding,63.7
+CASP9,Caspase 9,Protein Coding,62.58
+GUCY2C,Guanylate Cyclase 2C,Protein Coding,62.26
+TYMP,Thymidine Phosphorylase,Protein Coding,61.69
+DPYD,Dihydropyrimidine Dehydrogenase,Protein Coding,61.65
+TOP1,DNA Topoisomerase I,Protein Coding,61.38
+CYCS,"Cytochrome C, Somatic",Protein Coding,60.83
+NFE2L2,NFE2 Like BZIP Transcription Factor 2,Protein Coding,60.76
+HNF4A,Hepatocyte Nuclear Factor 4 Alpha,Protein Coding,60.19
+CDKN2A,Cyclin Dependent Kinase Inhibitor 2A,Protein Coding,59.75
+GDF15,Growth Differentiation Factor 15,Protein Coding,59.55
+PARP1,Poly(ADP-Ribose) Polymerase 1,Protein Coding,59.41
+CASP8,Caspase 8,Protein Coding,59.16
+CCKBR,Cholecystokinin B Receptor,Protein Coding,59.02
+MAPK1,Mitogen-Activated Protein Kinase 1,Protein Coding,58.84
+SMAD3,SMAD Family Member 3,Protein Coding,58.43
+CEACAM3,CEA Cell Adhesion Molecule 3,Protein Coding,58.06
+GAST,Gastrin,Protein Coding,57.8
+LEF1,Lymphoid Enhancer Binding Factor 1,Protein Coding,57.74
+TNFSF10,TNF Superfamily Member 10,Protein Coding,57.51
+PTEN,Phosphatase And Tensin Homolog,Protein Coding,57.39
+CDK2,Cyclin Dependent Kinase 2,Protein Coding,57.25
+PPARD,Peroxisome Proliferator Activated Receptor Delta,Protein Coding,57.24
+SMAD2,SMAD Family Member 2,Protein Coding,57.22
+CTSB,Cathepsin B,Protein Coding,56.96
+AXIN1,Axin 1,Protein Coding,56.96
+STAT3,Signal Transducer And Activator Of Transcription 3,Protein Coding,56.79
+FASLG,Fas Ligand,Protein Coding,56.39
+CEACAM6,CEA Cell Adhesion Molecule 6,Protein Coding,56.28
+NME1,NME/NM23 Nucleoside Diphosphate Kinase 1,Protein Coding,56.23
+IGF1R,Insulin Like Growth Factor 1 Receptor,Protein Coding,55.85
+GALNT12,Polypeptide N-Acetylgalactosaminyltransferase 12,Protein Coding,55.26
+KDR,Kinase Insert Domain Receptor,Protein Coding,55.15
+PLAUR,"Plasminogen Activator, Urokinase Receptor",Protein Coding,55.06
+MAPK3,Mitogen-Activated Protein Kinase 3,Protein Coding,55.05
+IFNG,Interferon Gamma,Protein Coding,54.91
+ABCB1,ATP Binding Cassette Subfamily B Member 1,Protein Coding,54.51
+PTGS1,Prostaglandin-Endoperoxide Synthase 1,Protein Coding,53.95
+SMAD7,SMAD Family Member 7,Protein Coding,53.88
+AREG,Amphiregulin,Protein Coding,53.52
+PTK2,Protein Tyrosine Kinase 2,Protein Coding,53.49
+MUC12,"Mucin 12, Cell Surface Associated",Protein Coding,53.39
+TNFRSF10B,TNF Receptor Superfamily Member 10b,Protein Coding,53.38
+SFRP2,Secreted Frizzled Related Protein 2,Protein Coding,53.38
+RAF1,"Raf-1 Proto-Oncogene, Serine/Threonine Kinase",Protein Coding,53.23
+NTN1,Netrin 1,Protein Coding,53.19
+ANXA5,Annexin A5,Protein Coding,53.09
+TGFA,Transforming Growth Factor Alpha,Protein Coding,53.03
+RHOA,Ras Homolog Family Member A,Protein Coding,52.82
+TGFB1,Transforming Growth Factor Beta 1,Protein Coding,52.66
+CDK1,Cyclin Dependent Kinase 1,Protein Coding,52.59
+MUC5AC,"Mucin 5AC, Oligomeric Mucus/Gel-Forming",Protein Coding,52.57
+NTHL1,Nth Like DNA Glycosylase 1,Protein Coding,52.53
+CDKN1B,Cyclin Dependent Kinase Inhibitor 1B,Protein Coding,52.52
+TCF4,Transcription Factor 4,Protein Coding,52.48
+MAPK8,Mitogen-Activated Protein Kinase 8,Protein Coding,52.16
+GSK3B,Glycogen Synthase Kinase 3 Beta,Protein Coding,52.02
+PSG2,Pregnancy Specific Beta-1-Glycoprotein 2,Protein Coding,51.66
+LGALS3,Galectin 3,Protein Coding,51.5
+MAP2K1,Mitogen-Activated Protein Kinase Kinase 1,Protein Coding,51.42
+CCNA2,Cyclin A2,Protein Coding,51.3
+VEGFA,Vascular Endothelial Growth Factor A,Protein Coding,51.08
+CDK4,Cyclin Dependent Kinase 4,Protein Coding,51.06
+STAT1,Signal Transducer And Activator Of Transcription 1,Protein Coding,50.87
+TMEFF2,Transmembrane Protein With EGF Like And Two Follistatin Like Domains 2,Protein Coding,50.77
+RNF43,Ring Finger Protein 43,Protein Coding,50.63
+BAK1,BCL2 Antagonist/Killer 1,Protein Coding,50.57
+CEACAM1,CEA Cell Adhesion Molecule 1,Protein Coding,50.56
+TERT,Telomerase Reverse Transcriptase,Protein Coding,50.55
+TGFBR1,Transforming Growth Factor Beta Receptor 1,Protein Coding,50.27
+GPX2,Glutathione Peroxidase 2,Protein Coding,50.24
+FLT1,Fms Related Receptor Tyrosine Kinase 1,Protein Coding,50.23
+FAS,Fas Cell Surface Death Receptor,Protein Coding,50.04
+GSTP1,Glutathione S-Transferase Pi 1,Protein Coding,50
+HDAC1,Histone Deacetylase 1,Protein Coding,49.95
+PTGER4,Prostaglandin E Receptor 4,Protein Coding,49.78
+MAPK14,Mitogen-Activated Protein Kinase 14,Protein Coding,49.76
+FOS,"Fos Proto-Oncogene, AP-1 Transcription Factor Subunit",Protein Coding,49.67
+FN1,Fibronectin 1,Protein Coding,49.64
+CFLAR,CASP8 And FADD Like Apoptosis Regulator,Protein Coding,49.6
+CHEK1,Checkpoint Kinase 1,Protein Coding,49.59
+CBS,Cystathionine Beta-Synthase,Protein Coding,49.53
+EPHB2,EPH Receptor B2,Protein Coding,48.96
+CCNB1,Cyclin B1,Protein Coding,48.78
+CDH2,Cadherin 2,Protein Coding,48.73
+RUNX3,RUNX Family Transcription Factor 3,Protein Coding,48.73
+NQO1,NAD(P)H Quinone Dehydrogenase 1,Protein Coding,48.73
+E2F1,E2F Transcription Factor 1,Protein Coding,48.72
+MMP1,Matrix Metallopeptidase 1,Protein Coding,48.65
+TNF,Tumor Necrosis Factor,Protein Coding,48.52
+NFKB1,Nuclear Factor Kappa B Subunit 1,Protein Coding,48.5
+NF1,Neurofibromin 1,Protein Coding,48.46
+IL6,Interleukin 6,Protein Coding,48.41
+MMP14,Matrix Metallopeptidase 14,Protein Coding,48.11
+MDM2,MDM2 Proto-Oncogene,Protein Coding,48.02
+TFF3,Trefoil Factor 3,Protein Coding,47.94
+HDAC9,Histone Deacetylase 9,Protein Coding,47.63
+DKK1,Dickkopf WNT Signaling Pathway Inhibitor 1,Protein Coding,47.62
+TGFB2,Transforming Growth Factor Beta 2,Protein Coding,47.51
+SOCS1,Suppressor Of Cytokine Signaling 1,Protein Coding,47.45
+TJP1,Tight Junction Protein 1,Protein Coding,47.45
+GADD45A,Growth Arrest And DNA Damage Inducible Alpha,Protein Coding,47.44
+KLF4,KLF Transcription Factor 4,Protein Coding,47.36
+WNT1,Wnt Family Member 1,Protein Coding,47.31
+TCF7,Transcription Factor 7,Protein Coding,47.3
+UMPS,Uridine Monophosphate Synthetase,Protein Coding,47.25
+SNAI1,Snail Family Transcriptional Repressor 1,Protein Coding,47.15
+WIF1,WNT Inhibitory Factor 1,Protein Coding,47.09
+ELAVL1,ELAV Like RNA Binding Protein 1,Protein Coding,47.04
+CTBP1,C-Terminal Binding Protein 1,Protein Coding,46.99
+ERBB3,Erb-B2 Receptor Tyrosine Kinase 3,Protein Coding,46.77
+REV3L,"REV3 Like, DNA Directed Polymerase Zeta Catalytic Subunit",Protein Coding,46.57
+ENPP7,Ectonucleotide Pyrophosphatase/Phosphodiesterase 7,Protein Coding,46.47
+CDK6,Cyclin Dependent Kinase 6,Protein Coding,46.44
+S100A4,S100 Calcium Binding Protein A4,Protein Coding,46.44
+STK11,Serine/Threonine Kinase 11,Protein Coding,46.44
+GNAS,GNAS Complex Locus,Protein Coding,46.43
+VEGFC,Vascular Endothelial Growth Factor C,Protein Coding,46.32
+KRT18,Keratin 18,Protein Coding,46.28
+GUCA2B,Guanylate Cyclase Activator 2B,Protein Coding,46.15
+CRIPTO,"Cripto, EGF-CFC Family Member",Protein Coding,46.14
+CCND3,Cyclin D3,Protein Coding,46.11
+ATF3,Activating Transcription Factor 3,Protein Coding,46.07
+TNFRSF10A,TNF Receptor Superfamily Member 10a,Protein Coding,46.07
+CASP7,Caspase 7,Protein Coding,46.04
+EPHA2,EPH Receptor A2,Protein Coding,45.95
+LGALS4,Galectin 4,Protein Coding,45.94
+MMP11,Matrix Metallopeptidase 11,Protein Coding,45.87
+CAV1,Caveolin 1,Protein Coding,45.77
+NOTCH1,Notch Receptor 1,Protein Coding,45.62
+FOSL1,"FOS Like 1, AP-1 Transcription Factor Subunit",Protein Coding,45.5
+ESR2,Estrogen Receptor 2,Protein Coding,45.46
+CTSD,Cathepsin D,Protein Coding,45.32
+VEGFD,Vascular Endothelial Growth Factor D,Protein Coding,45.29
+ABCC1,ATP Binding Cassette Subfamily C Member 1 (ABCC1 Blood Group),Protein Coding,45.18
+GAPDH,Glyceraldehyde-3-Phosphate Dehydrogenase,Protein Coding,44.98
+ABCG2,ATP Binding Cassette Subfamily G Member 2 (JR Blood Group),Protein Coding,44.92
+DNMT3B,DNA Methyltransferase 3 Beta,Protein Coding,44.75
+XIAP,X-Linked Inhibitor Of Apoptosis,Protein Coding,44.58
+UGT1A1,UDP Glucuronosyltransferase Family 1 Member A1,Protein Coding,44.56
+SNAI2,Snail Family Transcriptional Repressor 2,Protein Coding,44.55
+PDCD4,Programmed Cell Death 4,Protein Coding,44.5
+SP1,Sp1 Transcription Factor,Protein Coding,44.49
+CACNA1G,Calcium Voltage-Gated Channel Subunit Alpha1 G,Protein Coding,44.38
+WNT2,Wnt Family Member 2,Protein Coding,44.3
+KRT8,Keratin 8,Protein Coding,44.09
+SELE,Selectin E,Protein Coding,44.08
+HSPA5,Heat Shock Protein Family A (Hsp70) Member 5,Protein Coding,44.07
+TLR4,Toll Like Receptor 4,Protein Coding,44.03
+JAK1,Janus Kinase 1,Protein Coding,43.94
+IGFBP3,Insulin Like Growth Factor Binding Protein 3,Protein Coding,43.9
+ENG,Endoglin,Protein Coding,43.89
+MTHFR,Methylenetetrahydrofolate Reductase,Protein Coding,43.87
+PDGFRB,Platelet Derived Growth Factor Receptor Beta,Protein Coding,43.83
+BCL2L11,BCL2 Like 11,Protein Coding,43.83
+BBC3,BCL2 Binding Component 3,Protein Coding,43.8
+NFKBIA,NFKB Inhibitor Alpha,Protein Coding,43.76
+FHIT,Fragile Histidine Triad Diadenosine Triphosphatase,Protein Coding,43.73
+WNT5A,Wnt Family Member 5A,Protein Coding,43.67
+CCND2,Cyclin D2,Protein Coding,43.66
+ADAR,Adenosine Deaminase RNA Specific,Protein Coding,43.66
+NOS2,Nitric Oxide Synthase 2,Protein Coding,43.22
+HMGB1,High Mobility Group Box 1,Protein Coding,43.19
+TP73,Tumor Protein P73,Protein Coding,43.11
+ITGB1,Integrin Subunit Beta 1,Protein Coding,43.03
+THBS1,Thrombospondin 1,Protein Coding,43
+TWIST1,Twist Family BHLH Transcription Factor 1,Protein Coding,42.96
+JUP,Junction Plakoglobin,Protein Coding,42.8
+MTA1,Metastasis Associated 1,Protein Coding,42.79
+LRP6,LDL Receptor Related Protein 6,Protein Coding,42.76
+SETD2,"SET Domain Containing 2, Histone Lysine Methyltransferase",Protein Coding,42.71
+TIMP3,TIMP Metallopeptidase Inhibitor 3,Protein Coding,42.64
+MBD4,"Methyl-CpG Binding Domain 4, DNA Glycosylase",Protein Coding,42.63
+CA9,Carbonic Anhydrase 9,Protein Coding,42.53
+ERCC1,"ERCC Excision Repair 1, Endonuclease Non-Catalytic Subunit",Protein Coding,42.44
+HSP90AA1,Heat Shock Protein 90 Alpha Family Class A Member 1,Protein Coding,42.42
+MCL1,"MCL1 Apoptosis Regulator, BCL2 Family Member",Protein Coding,42.36
+WNT3A,Wnt Family Member 3A,Protein Coding,42.36
+KRT7,Keratin 7,Protein Coding,42.29
+CD80,CD80 Molecule,Protein Coding,42.24
+TIMP1,TIMP Metallopeptidase Inhibitor 1,Protein Coding,42.23
+IGF2R,Insulin Like Growth Factor 2 Receptor,Protein Coding,42.23
+HGF,Hepatocyte Growth Factor,Protein Coding,42.21
+ITGA5,Integrin Subunit Alpha 5,Protein Coding,42.21
+TLR9,Toll Like Receptor 9,Protein Coding,42.14
+ZEB2,Zinc Finger E-Box Binding Homeobox 2,Protein Coding,42.09
+SPARC,Secreted Protein Acidic And Cysteine Rich,Protein Coding,42.05
+FLT4,Fms Related Receptor Tyrosine Kinase 4,Protein Coding,41.97
+FZD10,Frizzled Class Receptor 10,Protein Coding,41.97
+HPGD,15-Hydroxyprostaglandin Dehydrogenase,Protein Coding,41.97
+IL6R,Interleukin 6 Receptor,Protein Coding,41.86
+RASSF1,Ras Association Domain Family Member 1,Protein Coding,41.85
+FANCC,FA Complementation Group C,Protein Coding,41.77
+KRT19,Keratin 19,Protein Coding,41.74
+OGG1,8-Oxoguanine DNA Glycosylase,Protein Coding,41.69
+PIK3R2,Phosphoinositide-3-Kinase Regulatory Subunit 2,Protein Coding,41.59
+FANCI,FA Complementation Group I,Protein Coding,41.57
+CLDN1,Claudin 1,Protein Coding,41.57
+MKI67,Marker Of Proliferation Ki-67,Protein Coding,41.51
+CSK,C-Terminal Src Kinase,Protein Coding,41.49
+ILK,Integrin Linked Kinase,Protein Coding,41.43
+HDAC2,Histone Deacetylase 2,Protein Coding,41.37
+HNRNPK,Heterogeneous Nuclear Ribonucleoprotein K,Protein Coding,41.36
+HLTF,Helicase Like Transcription Factor,Protein Coding,41.3
+FUT3,Fucosyltransferase 3 (Lewis Blood Group),Protein Coding,41.24
+EGR1,Early Growth Response 1,Protein Coding,41.19
+PIK3CB,"Phosphatidylinositol-4,5-Bisphosphate 3-Kinase Catalytic Subunit Beta",Protein Coding,41.14
+VTN,Vitronectin,Protein Coding,41.13
+MUC6,"Mucin 6, Oligomeric Mucus/Gel-Forming",Protein Coding,41.11
+IGFBP7,Insulin Like Growth Factor Binding Protein 7,Protein Coding,41.1
+IFNA2,Interferon Alpha 2,Protein Coding,40.97
+FGF2,Fibroblast Growth Factor 2,Protein Coding,40.93
+LOX,Lysyl Oxidase,Protein Coding,40.93
+FPGS,Folylpolyglutamate Synthase,Protein Coding,40.9
+FUT4,Fucosyltransferase 4,Protein Coding,40.89
+IGF1,Insulin Like Growth Factor 1,Protein Coding,40.88
+PRKCA,Protein Kinase C Alpha,Protein Coding,40.88
+ITGB4,Integrin Subunit Beta 4,Protein Coding,40.86
+FASN,Fatty Acid Synthase,Protein Coding,40.79
+LAMC2,Laminin Subunit Gamma 2,Protein Coding,40.71
+GSTM1,Glutathione S-Transferase Mu 1,Protein Coding,40.71
+CLDN7,Claudin 7,Protein Coding,40.68
+BAD,BCL2 Associated Agonist Of Cell Death,Protein Coding,40.59
+LRP5,LDL Receptor Related Protein 5,Protein Coding,40.59
+RAC1,Rac Family Small GTPase 1,Protein Coding,40.58
+PLK1,Polo Like Kinase 1,Protein Coding,40.53
+CXCR4,C-X-C Motif Chemokine Receptor 4,Protein Coding,40.47
+CD274,CD274 Molecule,Protein Coding,40.44
+TIAM1,TIAM Rac1 Associated GEF 1,Protein Coding,40.39
+TFAP2A,Transcription Factor AP-2 Alpha,Protein Coding,40.28
+GRPR,Gastrin Releasing Peptide Receptor,Protein Coding,40.27
+PXN,Paxillin,Protein Coding,40.22
+WRN,WRN RecQ Like Helicase,Protein Coding,40.1
+ETS1,"ETS Proto-Oncogene 1, Transcription Factor",Protein Coding,40.03
+PTPN13,Protein Tyrosine Phosphatase Non-Receptor Type 13,Protein Coding,39.97
+TXN,Thioredoxin,Protein Coding,39.92
+PTTG1,"PTTG1 Regulator Of Sister Chromatid Separation, Securin",Protein Coding,39.89
+UGT1A6,UDP Glucuronosyltransferase Family 1 Member A6,Protein Coding,39.89
+CYP3A4,Cytochrome P450 Family 3 Subfamily A Member 4,Protein Coding,39.76
+PKM,Pyruvate Kinase M1/2,Protein Coding,39.75
+BMP6,Bone Morphogenetic Protein 6,Protein Coding,39.71
+AKT2,AKT Serine/Threonine Kinase 2,Protein Coding,39.7
+CYP27B1,Cytochrome P450 Family 27 Subfamily B Member 1,Protein Coding,39.69
+GRB2,Growth Factor Receptor Bound Protein 2,Protein Coding,39.65
+STUB1,STIP1 Homology And U-Box Containing Protein 1,Protein Coding,39.62
+TNFRSF1A,TNF Receptor Superfamily Member 1A,Protein Coding,39.6
+CYP1A1,Cytochrome P450 Family 1 Subfamily A Member 1,Protein Coding,39.57
+CXCL12,C-X-C Motif Chemokine Ligand 12,Protein Coding,39.52
+RB1,RB Transcriptional Corepressor 1,Protein Coding,39.47
+GZMB,Granzyme B,Protein Coding,39.32
+DVL1,Dishevelled Segment Polarity Protein 1,Protein Coding,39.25
+CASR,Calcium Sensing Receptor,Protein Coding,39.24
+GRP,Gastrin Releasing Peptide,Protein Coding,39.23
+DHFR,Dihydrofolate Reductase,Protein Coding,39.22
+TGFB3,Transforming Growth Factor Beta 3,Protein Coding,39.17
+FSCN1,Fascin Actin-Bundling Protein 1,Protein Coding,39.15
+FADD,Fas Associated Via Death Domain,Protein Coding,39.04
+HLA-A,"Major Histocompatibility Complex, Class I, A",Protein Coding,38.99
+BIRC3,Baculoviral IAP Repeat Containing 3,Protein Coding,38.95
+CALR,Calreticulin,Protein Coding,38.94
+NTS,Neurotensin,Protein Coding,38.93
+DNMT3A,DNA Methyltransferase 3 Alpha,Protein Coding,38.92
+TLR5,Toll Like Receptor 5,Protein Coding,38.85
+XRCC5,X-Ray Repair Cross Complementing 5,Protein Coding,38.81
+NAT2,N-Acetyltransferase 2,Protein Coding,38.8
+CDK8,Cyclin Dependent Kinase 8,Protein Coding,38.75
+CTNND1,Catenin Delta 1,Protein Coding,38.71
+XRCC1,X-Ray Repair Cross Complementing 1,Protein Coding,38.69
+ERBB4,Erb-B2 Receptor Tyrosine Kinase 4,Protein Coding,38.67
+IRS1,Insulin Receptor Substrate 1,Protein Coding,38.61
+CD82,CD82 Molecule,Protein Coding,38.6
+CDC25C,Cell Division Cycle 25C,Protein Coding,38.59
+ANXA2,Annexin A2,Protein Coding,38.59
+IGFBP2,Insulin Like Growth Factor Binding Protein 2,Protein Coding,38.56
+NAT1,N-Acetyltransferase 1,Protein Coding,38.47
+CCK,Cholecystokinin,Protein Coding,38.44
+FZD7,Frizzled Class Receptor 7,Protein Coding,38.42
+ICAM1,Intercellular Adhesion Molecule 1,Protein Coding,38.4
+PRKACA,Protein Kinase CAMP-Activated Catalytic Subunit Alpha,Protein Coding,38.35
+CLDN4,Claudin 4,Protein Coding,38.28
+CSNK2A1,Casein Kinase 2 Alpha 1,Protein Coding,38.27
+CXCR2,C-X-C Motif Chemokine Receptor 2,Protein Coding,38.2
+CSNK1A1,Casein Kinase 1 Alpha 1,Protein Coding,38.19
+CSNK2A2,Casein Kinase 2 Alpha 2,Protein Coding,38.15
+TIMP2,TIMP Metallopeptidase Inhibitor 2,Protein Coding,38.07
+SHC1,SHC Adaptor Protein 1,Protein Coding,38.06
+COX5A,Cytochrome C Oxidase Subunit 5A,Protein Coding,37.83
+RRM2,Ribonucleotide Reductase Regulatory Subunit M2,Protein Coding,37.8
+SUZ12,SUZ12 Polycomb Repressive Complex 2 Subunit,Protein Coding,37.71
+ITGA2,Integrin Subunit Alpha 2,Protein Coding,37.69
+CXCL1,C-X-C Motif Chemokine Ligand 1,Protein Coding,37.62
+CCN4,Cellular Communication Network Factor 4,Protein Coding,37.61
+DIABLO,Diablo IAP-Binding Mitochondrial Protein,Protein Coding,37.59
+LGALS1,Galectin 1,Protein Coding,37.58
+IL2,Interleukin 2,Protein Coding,37.53
+HSPA8,Heat Shock Protein Family A (Hsp70) Member 8,Protein Coding,37.53
+HPRT1,Hypoxanthine Phosphoribosyltransferase 1,Protein Coding,37.52
+XRCC6,X-Ray Repair Cross Complementing 6,Protein Coding,37.52
+JAK2,Janus Kinase 2,Protein Coding,37.51
+IFI27,Interferon Alpha Inducible Protein 27,Protein Coding,37.5
+NRP2,Neuropilin 2,Protein Coding,37.47
+SERPINB5,Serpin Family B Member 5,Protein Coding,37.43
+IL1B,Interleukin 1 Beta,Protein Coding,37.38
+IL10,Interleukin 10,Protein Coding,37.38
+MMP12,Matrix Metallopeptidase 12,Protein Coding,37.35
+MAP2K4,Mitogen-Activated Protein Kinase Kinase 4,Protein Coding,37.31
+MAPRE1,Microtubule Associated Protein RP/EB Family Member 1,Protein Coding,37.21
+ALB,Albumin,Protein Coding,37.21
+IL15,Interleukin 15,Protein Coding,37.11
+SLC2A1,Solute Carrier Family 2 Member 1,Protein Coding,37.09
+DAPK1,Death Associated Protein Kinase 1,Protein Coding,37.09
+ACVR2A,Activin A Receptor Type 2A,Protein Coding,37.07
+MAP2K2,Mitogen-Activated Protein Kinase Kinase 2,Protein Coding,37.02
+CXCL8,C-X-C Motif Chemokine Ligand 8,Protein Coding,37.01
+CYP24A1,Cytochrome P450 Family 24 Subfamily A Member 1,Protein Coding,37
+NRP1,Neuropilin 1,Protein Coding,36.97
+LGALS3BP,Galectin 3 Binding Protein,Protein Coding,36.97
+ITGAV,Integrin Subunit Alpha V,Protein Coding,36.96
+ST6GAL1,"ST6 Beta-Galactoside Alpha-2,6-Sialyltransferase 1",Protein Coding,36.95
+ID1,Inhibitor Of DNA Binding 1,Protein Coding,36.91
+HSPB1,Heat Shock Protein Family B (Small) Member 1,Protein Coding,36.91
+BECN1,Beclin 1,Protein Coding,36.82
+TOP2A,DNA Topoisomerase II Alpha,Protein Coding,36.78
+CASP2,Caspase 2,Protein Coding,36.72
+PPP2R1B,Protein Phosphatase 2 Scaffold Subunit Abeta,Protein Coding,36.72
+CD86,CD86 Molecule,Protein Coding,36.68
+ESR1,Estrogen Receptor 1,Protein Coding,36.68
+TKT,Transketolase,Protein Coding,36.66
+REG4,Regenerating Family Member 4,Protein Coding,36.62
+TMSB4X,Thymosin Beta 4 X-Linked,Protein Coding,36.59
+CYP1A2,Cytochrome P450 Family 1 Subfamily A Member 2,Protein Coding,36.58
+CREB1,CAMP Responsive Element Binding Protein 1,Protein Coding,36.57
+DDIT3,DNA Damage Inducible Transcript 3,Protein Coding,36.5
+HSPA4,Heat Shock Protein Family A (Hsp70) Member 4,Protein Coding,36.46
+PDCD1,Programmed Cell Death 1,Protein Coding,36.45
+PTGES2,Prostaglandin E Synthase 2,Protein Coding,36.45
+NCAM1,Neural Cell Adhesion Molecule 1,Protein Coding,36.36
+UGT1A7,UDP Glucuronosyltransferase Family 1 Member A7,Protein Coding,36.35
+PAK1,P21 (RAC1) Activated Kinase 1,Protein Coding,36.3
+MAP2K3,Mitogen-Activated Protein Kinase Kinase 3,Protein Coding,36.2
+FZD4,Frizzled Class Receptor 4,Protein Coding,36.19
+MUC1,"Mucin 1, Cell Surface Associated",Protein Coding,36.15
+ALDH1A1,Aldehyde Dehydrogenase 1 Family Member A1,Protein Coding,36.08
+FANCE,FA Complementation Group E,Protein Coding,36.08
+MTOR,Mechanistic Target Of Rapamycin Kinase,Protein Coding,36.06
+DKK4,Dickkopf WNT Signaling Pathway Inhibitor 4,Protein Coding,36.06
+PIK3CG,"Phosphatidylinositol-4,5-Bisphosphate 3-Kinase Catalytic Subunit Gamma",Protein Coding,36.04
+PCNA,Proliferating Cell Nuclear Antigen,Protein Coding,36.04
+SLC5A8,Solute Carrier Family 5 Member 8,Protein Coding,36.01
+SLIT2,Slit Guidance Ligand 2,Protein Coding,35.93
+IFNB1,Interferon Beta 1,Protein Coding,35.87
+HSP90B1,Heat Shock Protein 90 Beta Family Member 1,Protein Coding,35.87
+HMOX1,Heme Oxygenase 1,Protein Coding,35.79
+CSF2,Colony Stimulating Factor 2,Protein Coding,35.78
+EZR,Ezrin,Protein Coding,35.76
+SERPINB2,Serpin Family B Member 2,Protein Coding,35.74
+ALOX12,"Arachidonate 12-Lipoxygenase, 12S Type",Protein Coding,35.71
+SAT1,Spermidine/Spermine N1-Acetyltransferase 1,Protein Coding,35.67
+MUC4,"Mucin 4, Cell Surface Associated",Protein Coding,35.63
+SI,Sucrase-Isomaltase,Protein Coding,35.58
+APEX1,Apurinic/Apyrimidinic Endodeoxyribonuclease 1,Protein Coding,35.52
+ALCAM,Activated Leukocyte Cell Adhesion Molecule,Protein Coding,35.46
+EXO1,Exonuclease 1,Protein Coding,35.45
+PPARA,Peroxisome Proliferator Activated Receptor Alpha,Protein Coding,35.45
+AIM2,Absent In Melanoma 2,Protein Coding,35.43
+CDKN3,Cyclin Dependent Kinase Inhibitor 3,Protein Coding,35.39
+MMP13,Matrix Metallopeptidase 13,Protein Coding,35.39
+HPSE,Heparanase,Protein Coding,35.36
+CD40,CD40 Molecule,Protein Coding,35.36
+FGFR4,Fibroblast Growth Factor Receptor 4,Protein Coding,35.36
+TFRC,Transferrin Receptor,Protein Coding,35.35
+CHUK,Component Of Inhibitor Of Nuclear Factor Kappa B Kinase Complex,Protein Coding,35.34
+MAPK9,Mitogen-Activated Protein Kinase 9,Protein Coding,35.22
+STAT6,Signal Transducer And Activator Of Transcription 6,Protein Coding,35.14
+ST14,ST14 Transmembrane Serine Protease Matriptase,Protein Coding,35.11
+INS,Insulin,Protein Coding,35.07
+EPHA3,EPH Receptor A3,Protein Coding,35.07
+NTRK1,Neurotrophic Receptor Tyrosine Kinase 1,Protein Coding,35.05
+VCAM1,Vascular Cell Adhesion Molecule 1,Protein Coding,35.03
+KLRK1,Killer Cell Lectin Like Receptor K1,Protein Coding,35.01
+IL4,Interleukin 4,Protein Coding,35
+MAPK12,Mitogen-Activated Protein Kinase 12,Protein Coding,34.96
+PLK4,Polo Like Kinase 4,Protein Coding,34.95
+SLC19A1,Solute Carrier Family 19 Member 1,Protein Coding,34.94
+EREG,Epiregulin,Protein Coding,34.94
+BMP4,Bone Morphogenetic Protein 4,Protein Coding,34.92
+SOX2,SRY-Box Transcription Factor 2,Protein Coding,34.87
+ALOX5,Arachidonate 5-Lipoxygenase,Protein Coding,34.84
+CDKN2B,Cyclin Dependent Kinase Inhibitor 2B,Protein Coding,34.84
+TCF3,Transcription Factor 3,Protein Coding,34.8
+TNS4,Tensin 4,Protein Coding,34.72
+PGK1,Phosphoglycerate Kinase 1,Protein Coding,34.69
+MYB,"MYB Proto-Oncogene, Transcription Factor",Protein Coding,34.67
+CDCP1,CUB Domain Containing Protein 1,Protein Coding,34.66
+CASP1,Caspase 1,Protein Coding,34.66
+HSP90AB1,Heat Shock Protein 90 Alpha Family Class B Member 1,Protein Coding,34.61
+NDRG1,N-Myc Downstream Regulated 1,Protein Coding,34.59
+UGT1A10,UDP Glucuronosyltransferase Family 1 Member A10,Protein Coding,34.57
+BCAR1,"BCAR1 Scaffold Protein, Cas Family Member",Protein Coding,34.55
+ETV4,ETS Variant Transcription Factor 4,Protein Coding,34.53
+MVP,Major Vault Protein,Protein Coding,34.47
+MGAT5,"Alpha-1,6-Mannosylglycoprotein 6-Beta-N-Acetylglucosaminyltransferase",Protein Coding,34.44
+SPINK1,Serine Peptidase Inhibitor Kazal Type 1,Protein Coding,34.42
+BNIP3,BCL2 Interacting Protein 3,Protein Coding,34.41
+PTGER2,Prostaglandin E Receptor 2,Protein Coding,34.38
+KIT,"KIT Proto-Oncogene, Receptor Tyrosine Kinase",Protein Coding,34.37
+NRG1,Neuregulin 1,Protein Coding,34.34
+DCN,Decorin,Protein Coding,34.34
+GLI1,GLI Family Zinc Finger 1,Protein Coding,34.33
+WNT2B,Wnt Family Member 2B,Protein Coding,34.33
+CDH17,Cadherin 17,Protein Coding,34.32
+NKD1,NKD Inhibitor Of WNT Signaling Pathway 1,Protein Coding,34.3
+BTRC,Beta-Transducin Repeat Containing E3 Ubiquitin Protein Ligase,Protein Coding,34.3
+MAGEA1,MAGE Family Member A1,Protein Coding,34.3
+PDGFRA,Platelet Derived Growth Factor Receptor Alpha,Protein Coding,34.28
+KLF5,KLF Transcription Factor 5,Protein Coding,34.28
+APAF1,Apoptotic Peptidase Activating Factor 1,Protein Coding,34.27
+ANGPT2,Angiopoietin 2,Protein Coding,34.24
+IGF2BP1,Insulin Like Growth Factor 2 MRNA Binding Protein 1,Protein Coding,34.23
+PTGES,Prostaglandin E Synthase,Protein Coding,34.2
+FGFR1,Fibroblast Growth Factor Receptor 1,Protein Coding,34.19
+MMP3,Matrix Metallopeptidase 3,Protein Coding,34.14
+NR1I2,Nuclear Receptor Subfamily 1 Group I Member 2,Protein Coding,34.11
+BIRC2,Baculoviral IAP Repeat Containing 2,Protein Coding,34.11
+TFF1,Trefoil Factor 1,Protein Coding,34.11
+ARRB1,Arrestin Beta 1,Protein Coding,34.07
+RIPK1,Receptor Interacting Serine/Threonine Kinase 1,Protein Coding,34.04
+ABCC3,ATP Binding Cassette Subfamily C Member 3,Protein Coding,33.99
+YBX1,Y-Box Binding Protein 1,Protein Coding,33.98
+THBS2,Thrombospondin 2,Protein Coding,33.92
+MUC3A,"Mucin 3A, Cell Surface Associated",Protein Coding,33.89
+MAPK13,Mitogen-Activated Protein Kinase 13,Protein Coding,33.89
+RARB,Retinoic Acid Receptor Beta,Protein Coding,33.89
+IL1A,Interleukin 1 Alpha,Protein Coding,33.88
+IL4R,Interleukin 4 Receptor,Protein Coding,33.86
+HBEGF,Heparin Binding EGF Like Growth Factor,Protein Coding,33.8
+PLCG1,Phospholipase C Gamma 1,Protein Coding,33.8
+XBP1,X-Box Binding Protein 1,Protein Coding,33.78
+CREBBP,CREB Binding Protein,Protein Coding,33.76
+CCR7,C-C Motif Chemokine Receptor 7,Protein Coding,33.75
+CASP6,Caspase 6,Protein Coding,33.72
+BMI1,"BMI1 Proto-Oncogene, Polycomb Ring Finger",Protein Coding,33.71
+NLK,Nemo Like Kinase,Protein Coding,33.7
+RPSA,Ribosomal Protein SA,Protein Coding,33.66
+IFNA1,Interferon Alpha 1,Protein Coding,33.65
+PTPN11,Protein Tyrosine Phosphatase Non-Receptor Type 11,Protein Coding,33.57
+DDX53,DEAD-Box Helicase 53,Protein Coding,33.54
+CDC42,Cell Division Cycle 42,Protein Coding,33.52
+IKBKB,Inhibitor Of Nuclear Factor Kappa B Kinase Subunit Beta,Protein Coding,33.5
+ABCC2,ATP Binding Cassette Subfamily C Member 2,Protein Coding,33.49
+CLU,Clusterin,Protein Coding,33.39
+GATA6,GATA Binding Protein 6,Protein Coding,33.3
+RPS6KB1,Ribosomal Protein S6 Kinase B1,Protein Coding,33.29
+SGK2,Serum/Glucocorticoid Regulated Kinase 2,Protein Coding,33.27
+CD36,CD36 Molecule,Protein Coding,33.27
+GUCA2A,Guanylate Cyclase Activator 2A,Protein Coding,33.25
+LIMS1,LIM Zinc Finger Domain Containing 1,Protein Coding,33.24
+MT-CO2,Mitochondrially Encoded Cytochrome C Oxidase II,Protein Coding,33.24
+MTR,5-Methyltetrahydrofolate-Homocysteine Methyltransferase,Protein Coding,33.23
+POLB,DNA Polymerase Beta,Protein Coding,33.19
+RECK,Reversion Inducing Cysteine Rich Protein With Kazal Motifs,Protein Coding,33.19
+FCGR3A,Fc Gamma Receptor IIIa,Protein Coding,33.11
+BID,BH3 Interacting Domain Death Agonist,Protein Coding,33.09
+DPP4,Dipeptidyl Peptidase 4,Protein Coding,33.08
+EPHB4,EPH Receptor B4,Protein Coding,33.04
+RUVBL1,RuvB Like AAA ATPase 1,Protein Coding,32.99
+MACC1,MET Transcriptional Regulator MACC1,Protein Coding,32.97
+MAP2K6,Mitogen-Activated Protein Kinase Kinase 6,Protein Coding,32.94
+RAD51,RAD51 Recombinase,Protein Coding,32.9
+COL4A1,Collagen Type IV Alpha 1 Chain,Protein Coding,32.8
+PGR,Progesterone Receptor,Protein Coding,32.73
+EIF2AK3,Eukaryotic Translation Initiation Factor 2 Alpha Kinase 3,Protein Coding,32.7
+VCL,Vinculin,Protein Coding,32.69
+ERCC2,"ERCC Excision Repair 2, TFIIH Core Complex Helicase Subunit",Protein Coding,32.65
+CASP5,Caspase 5,Protein Coding,32.65
+NOD2,Nucleotide Binding Oligomerization Domain Containing 2,Protein Coding,32.63
+IDH1,Isocitrate Dehydrogenase (NADP(+)) 1,Protein Coding,32.62
+BSG,Basigin (Ok Blood Group),Protein Coding,32.62
+CEACAM4,CEA Cell Adhesion Molecule 4,Protein Coding,32.59
+CD4,CD4 Molecule,Protein Coding,32.58
+AXL,AXL Receptor Tyrosine Kinase,Protein Coding,32.53
+COL11A1,Collagen Type XI Alpha 1 Chain,Protein Coding,32.48
+EPAS1,Endothelial PAS Domain Protein 1,Protein Coding,32.48
+UGT1A9,UDP Glucuronosyltransferase Family 1 Member A9,Protein Coding,32.46
+PTCH1,Patched 1,Protein Coding,32.45
+CEBPB,CCAAT Enhancer Binding Protein Beta,Protein Coding,32.44
+LDHA,Lactate Dehydrogenase A,Protein Coding,32.43
+SKP2,S-Phase Kinase Associated Protein 2,Protein Coding,32.42
+CSNK1E,Casein Kinase 1 Epsilon,Protein Coding,32.35
+PRKCB,Protein Kinase C Beta,Protein Coding,32.33
+CXCR1,C-X-C Motif Chemokine Receptor 1,Protein Coding,32.33
+CD8A,CD8 Subunit Alpha,Protein Coding,32.33
+CD59,CD59 Molecule (CD59 Blood Group),Protein Coding,32.23
+RELA,"RELA Proto-Oncogene, NF-KB Subunit",Protein Coding,32.2
+SPP1,Secreted Phosphoprotein 1,Protein Coding,32.19
+NF2,"NF2, Moesin-Ezrin-Radixin Like (MERLIN) Tumor Suppressor",Protein Coding,32.17
+PLA2G4A,Phospholipase A2 Group IVA,Protein Coding,32.16
+SPHK1,Sphingosine Kinase 1,Protein Coding,32.13
+IRF1,Interferon Regulatory Factor 1,Protein Coding,32.1
+PTK2B,Protein Tyrosine Kinase 2 Beta,Protein Coding,32.08
+CTNNBIP1,Catenin Beta Interacting Protein 1,Protein Coding,32.08
+CYP2C9,Cytochrome P450 Family 2 Subfamily C Member 9,Protein Coding,32.06
+CSF1,Colony Stimulating Factor 1,Protein Coding,32.05
+IL13,Interleukin 13,Protein Coding,32.04
+KLF6,KLF Transcription Factor 6,Protein Coding,32.01
+ALOX15,Arachidonate 15-Lipoxygenase,Protein Coding,31.99
+HMGCR,3-Hydroxy-3-Methylglutaryl-CoA Reductase,Protein Coding,31.98
+LMNB1,Lamin B1,Protein Coding,31.94
+VIM,Vimentin,Protein Coding,31.94
+LMNA,Lamin A/C,Protein Coding,31.93
+PDPN,Podoplanin,Protein Coding,31.88
+HDAC3,Histone Deacetylase 3,Protein Coding,31.88
+CRP,C-Reactive Protein,Protein Coding,31.86
+RMI1,RecQ Mediated Genome Instability 1,Protein Coding,31.85
+FGF9,Fibroblast Growth Factor 9,Protein Coding,31.85
+EED,Embryonic Ectoderm Development,Protein Coding,31.84
+SHH,Sonic Hedgehog Signaling Molecule,Protein Coding,31.83
+ADAM10,ADAM Metallopeptidase Domain 10,Protein Coding,31.81
+SLC16A1,Solute Carrier Family 16 Member 1,Protein Coding,31.81
+CALB2,Calbindin 2,Protein Coding,31.78
+ITGA6,Integrin Subunit Alpha 6,Protein Coding,31.73
+AFP,Alpha Fetoprotein,Protein Coding,31.67
+CXADR,CXADR Ig-Like Cell Adhesion Molecule,Protein Coding,31.66
+HNF1A,HNF1 Homeobox A,Protein Coding,31.65
+MYD88,MYD88 Innate Immune Signal Transduction Adaptor,Protein Coding,31.64
+SOCS3,Suppressor Of Cytokine Signaling 3,Protein Coding,31.61
+MUC16,"Mucin 16, Cell Surface Associated",Protein Coding,31.59
+RUNX1,RUNX Family Transcription Factor 1,Protein Coding,31.56
+SYNE1,Spectrin Repeat Containing Nuclear Envelope Protein 1,Protein Coding,31.53
+CSE1L,Chromosome Segregation 1 Like,Protein Coding,31.51
+HSPA1A,Heat Shock Protein Family A (Hsp70) Member 1A,Protein Coding,31.5
+MRE11,"MRE11 Homolog, Double Strand Break Repair Nuclease",Protein Coding,31.5
+CD55,CD55 Molecule (Cromer Blood Group),Protein Coding,31.46
+HOXB6,Homeobox B6,Protein Coding,31.45
+IL22,Interleukin 22,Protein Coding,31.39
+IDH2,Isocitrate Dehydrogenase (NADP(+)) 2,Protein Coding,31.37
+CCR6,C-C Motif Chemokine Receptor 6,Protein Coding,31.36
+FOXO1,Forkhead Box O1,Protein Coding,31.36
+SERPINE1,Serpin Family E Member 1,Protein Coding,31.34
+ACTB,Actin Beta,Protein Coding,31.32
+NTRK3,Neurotrophic Receptor Tyrosine Kinase 3,Protein Coding,31.3
+SERPINA1,Serpin Family A Member 1,Protein Coding,31.29
+HNRNPA1,Heterogeneous Nuclear Ribonucleoprotein A1,Protein Coding,31.24
+CDH3,Cadherin 3,Protein Coding,31.2
+LEP,Leptin,Protein Coding,31.19
+PTGER1,Prostaglandin E Receptor 1,Protein Coding,31.08
+FABP1,Fatty Acid Binding Protein 1,Protein Coding,31.07
+SEPTIN9,Septin 9,Protein Coding,31.02
+CCL20,C-C Motif Chemokine Ligand 20,Protein Coding,31
+EPHA1,EPH Receptor A1,Protein Coding,30.95
+IRS2,Insulin Receptor Substrate 2,Protein Coding,30.94
+CXCL5,C-X-C Motif Chemokine Ligand 5,Protein Coding,30.86
+AMACR,Alpha-Methylacyl-CoA Racemase,Protein Coding,30.85
+TXNRD1,Thioredoxin Reductase 1,Protein Coding,30.84
+ING1,Inhibitor Of Growth Family Member 1,Protein Coding,30.8
+FUT1,Fucosyltransferase 1 (H Blood Group),Protein Coding,30.79
+ANPEP,"Alanyl Aminopeptidase, Membrane",Protein Coding,30.73
+DROSHA,Drosha Ribonuclease III,Protein Coding,30.68
+COL4A3,Collagen Type IV Alpha 3 Chain,Protein Coding,30.64
+NUDT1,Nudix Hydrolase 1,Protein Coding,30.58
+SLC16A3,Solute Carrier Family 16 Member 3,Protein Coding,30.56
+PRKCD,Protein Kinase C Delta,Protein Coding,30.55
+ITGA3,Integrin Subunit Alpha 3,Protein Coding,30.52
+CCNE1,Cyclin E1,Protein Coding,30.52
+SULT1A1,Sulfotransferase Family 1A Member 1,Protein Coding,30.5
+CYP1B1,Cytochrome P450 Family 1 Subfamily B Member 1,Protein Coding,30.47
+SMARCA4,"SWI/SNF Related, Matrix Associated, Actin Dependent Regulator Of Chromatin, Subfamily A, Member 4",Protein Coding,30.45
+NBN,Nibrin,Protein Coding,30.44
+RARA,Retinoic Acid Receptor Alpha,Protein Coding,30.42
+FGF3,Fibroblast Growth Factor 3,Protein Coding,30.38
+S100A11,S100 Calcium Binding Protein A11,Protein Coding,30.36
+MSN,Moesin,Protein Coding,30.34
+PRKDC,"Protein Kinase, DNA-Activated, Catalytic Subunit",Protein Coding,30.34
+PXDN,Peroxidasin,Protein Coding,30.33
+PXDNL,Peroxidasin Like,Protein Coding,30.32
+BIRC7,Baculoviral IAP Repeat Containing 7,Protein Coding,30.25
+TNFRSF6B,TNF Receptor Superfamily Member 6b,Protein Coding,30.21
+CYP2E1,Cytochrome P450 Family 2 Subfamily E Member 1,Protein Coding,30.19
+MIF,Macrophage Migration Inhibitory Factor,Protein Coding,30.16
+TPBG,Trophoblast Glycoprotein,Protein Coding,30.15
+HSPG2,Heparan Sulfate Proteoglycan 2,Protein Coding,30.14
+XRCC3,X-Ray Repair Cross Complementing 3,Protein Coding,30.11
+ADAM17,ADAM Metallopeptidase Domain 17,Protein Coding,30.1
+GUSB,Glucuronidase Beta,Protein Coding,30.09
+SDHB,Succinate Dehydrogenase Complex Iron Sulfur Subunit B,Protein Coding,30.07
+WEE1,WEE1 G2 Checkpoint Kinase,Protein Coding,30.06
+SDC1,Syndecan 1,Protein Coding,30.06
+SST,Somatostatin,Protein Coding,30.04
+BMP2,Bone Morphogenetic Protein 2,Protein Coding,30.03
+YES1,"YES Proto-Oncogene 1, Src Family Tyrosine Kinase",Protein Coding,30.01
+PPARGC1A,PPARG Coactivator 1 Alpha,Protein Coding,30
+HMMR,Hyaluronan Mediated Motility Receptor,Protein Coding,30
+FAP,Fibroblast Activation Protein Alpha,Protein Coding,29.96
+CTLA4,Cytotoxic T-Lymphocyte Associated Protein 4,Protein Coding,29.91
+IGFBP4,Insulin Like Growth Factor Binding Protein 4,Protein Coding,29.91
+UGT1A8,UDP Glucuronosyltransferase Family 1 Member A8,Protein Coding,29.9
+ADIPOQ,"Adiponectin, C1Q And Collagen Domain Containing",Protein Coding,29.88
+EPHX1,Epoxide Hydrolase 1,Protein Coding,29.88
+HLA-G,"Major Histocompatibility Complex, Class I, G",Protein Coding,29.85
+CLOCK,Clock Circadian Regulator,Protein Coding,29.79
+CTTN,Cortactin,Protein Coding,29.78
+AGER,Advanced Glycosylation End-Product Specific Receptor,Protein Coding,29.78
+IL11,Interleukin 11,Protein Coding,29.75
+SQSTM1,Sequestosome 1,Protein Coding,29.67
+L1CAM,L1 Cell Adhesion Molecule,Protein Coding,29.67
+F2R,Coagulation Factor II Thrombin Receptor,Protein Coding,29.62
+PLG,Plasminogen,Protein Coding,29.61
+SHMT1,Serine Hydroxymethyltransferase 1,Protein Coding,29.59
+FOLR1,Folate Receptor Alpha,Protein Coding,29.56
+ALDH2,Aldehyde Dehydrogenase 2 Family Member,Protein Coding,29.56
+LGALS9,Galectin 9,Protein Coding,29.52
+LEPR,Leptin Receptor,Protein Coding,29.44
+FGF20,Fibroblast Growth Factor 20,Protein Coding,29.44
+FABP6,Fatty Acid Binding Protein 6,Protein Coding,29.41
+MCM7,Minichromosome Maintenance Complex Component 7,Protein Coding,29.39
+ANXA1,Annexin A1,Protein Coding,29.37
+UNG,Uracil DNA Glycosylase,Protein Coding,29.35
+PROM1,Prominin 1,Protein Coding,29.34
+TAC1,Tachykinin Precursor 1,Protein Coding,29.33
+S100A9,S100 Calcium Binding Protein A9,Protein Coding,29.33
+ABL1,"ABL Proto-Oncogene 1, Non-Receptor Tyrosine Kinase",Protein Coding,29.33
+HES1,Hes Family BHLH Transcription Factor 1,Protein Coding,29.33
+ENO1,Enolase 1,Protein Coding,29.32
+FEN1,Flap Structure-Specific Endonuclease 1,Protein Coding,29.31
+IGFBP6,Insulin Like Growth Factor Binding Protein 6,Protein Coding,29.31
+PYCARD,PYD And CARD Domain Containing,Protein Coding,29.3
+ROCK1,Rho Associated Coiled-Coil Containing Protein Kinase 1,Protein Coding,29.29
+POSTN,Periostin,Protein Coding,29.24
+IL3,Interleukin 3,Protein Coding,29.2
+VIP,Vasoactive Intestinal Peptide,Protein Coding,29.2
+NR1H4,Nuclear Receptor Subfamily 1 Group H Member 4,Protein Coding,29.19
+PECAM1,Platelet And Endothelial Cell Adhesion Molecule 1,Protein Coding,29.16
+NR4A1,Nuclear Receptor Subfamily 4 Group A Member 1,Protein Coding,29.15
+SLC1A5,Solute Carrier Family 1 Member 5,Protein Coding,29.09
+LCK,"LCK Proto-Oncogene, Src Family Tyrosine Kinase",Protein Coding,29.06
+GSN,Gelsolin,Protein Coding,29.05
+RXRA,Retinoid X Receptor Alpha,Protein Coding,29.02
+TUBB,Tubulin Beta Class I,Protein Coding,28.96
+EHMT2,Euchromatic Histone Lysine Methyltransferase 2,Protein Coding,28.96
+CYP2D6,Cytochrome P450 Family 2 Subfamily D Member 6,Protein Coding,28.87
+EIF2AK2,Eukaryotic Translation Initiation Factor 2 Alpha Kinase 2,Protein Coding,28.84
+PTP4A3,Protein Tyrosine Phosphatase 4A3,Protein Coding,28.83
+FCGR2A,Fc Gamma Receptor IIa,Protein Coding,28.83
+LGR5,Leucine Rich Repeat Containing G Protein-Coupled Receptor 5,Protein Coding,28.83
+RAN,"RAN, Member RAS Oncogene Family",Protein Coding,28.79
+CYP19A1,Cytochrome P450 Family 19 Subfamily A Member 1,Protein Coding,28.75
+GPA33,Glycoprotein A33,Protein Coding,28.74
+TEK,TEK Receptor Tyrosine Kinase,Protein Coding,28.71
+SELP,Selectin P,Protein Coding,28.67
+LPAR2,Lysophosphatidic Acid Receptor 2,Protein Coding,28.66
+AKR1B1,Aldo-Keto Reductase Family 1 Member B,Protein Coding,28.64
+CHI3L1,Chitinase 3 Like 1,Protein Coding,28.64
+IL32,Interleukin 32,Protein Coding,28.63
+ATR,ATR Serine/Threonine Kinase,Protein Coding,28.62
+GREM1,"Gremlin 1, DAN Family BMP Antagonist",Protein Coding,28.59
+F3,"Coagulation Factor III, Tissue Factor",Protein Coding,28.57
+SFRP1,Secreted Frizzled Related Protein 1,Protein Coding,28.52
+MME,Membrane Metalloendopeptidase,Protein Coding,28.52
+FOXP3,Forkhead Box P3,Protein Coding,28.52
+H2AX,H2A.X Variant Histone,Protein Coding,28.52
+ACLY,ATP Citrate Lyase,Protein Coding,28.51
+GPI,Glucose-6-Phosphate Isomerase,Protein Coding,28.5
+PSAT1,Phosphoserine Aminotransferase 1,Protein Coding,28.48
+FGF7,Fibroblast Growth Factor 7,Protein Coding,28.47
+LCP1,Lymphocyte Cytosolic Protein 1,Protein Coding,28.47
+TNFRSF10D,TNF Receptor Superfamily Member 10d,Protein Coding,28.46
+SOD2,Superoxide Dismutase 2,Protein Coding,28.45
+KAT5,Lysine Acetyltransferase 5,Protein Coding,28.45
+CASP10,Caspase 10,Protein Coding,28.41
+EPHB3,EPH Receptor B3,Protein Coding,28.4
+CXCL3,C-X-C Motif Chemokine Ligand 3,Protein Coding,28.37
+PTP4A1,Protein Tyrosine Phosphatase 4A1,Protein Coding,28.31
+GPX4,Glutathione Peroxidase 4,Protein Coding,28.29
+AOPEP,Aminopeptidase O (Putative),Protein Coding,28.28
+CD28,CD28 Molecule,Protein Coding,28.28
+TNFRSF1B,TNF Receptor Superfamily Member 1B,Protein Coding,28.24
+EIF2S1,Eukaryotic Translation Initiation Factor 2 Subunit Alpha,Protein Coding,28.23
+INSR,Insulin Receptor,Protein Coding,28.22
+CEMIP,Cell Migration Inducing Hyaluronidase 1,Protein Coding,28.22
+KCNB2,Potassium Voltage-Gated Channel Subfamily B Member 2,Protein Coding,28.21
+LPAR1,Lysophosphatidic Acid Receptor 1,Protein Coding,28.16
+LIAT1,Ligand Of ATE1,Protein Coding,28.14
+TACSTD2,Tumor Associated Calcium Signal Transducer 2,Protein Coding,28.14
+SFN,Stratifin,Protein Coding,28.13
+PTPN1,Protein Tyrosine Phosphatase Non-Receptor Type 1,Protein Coding,28.12
+BRF1,BRF1 RNA Polymerase III Transcription Initiation Factor Subunit,Protein Coding,28.09
+UVRAG,UV Radiation Resistance Associated,Protein Coding,28.06
+CD34,CD34 Molecule,Protein Coding,28.05
+CEP55,Centrosomal Protein 55,Protein Coding,28.04
+FURIN,"Furin, Paired Basic Amino Acid Cleaving Enzyme",Protein Coding,28.01
+ANGPTL4,Angiopoietin Like 4,Protein Coding,28
+CRIPTO3,"Cripto, EGF-CFC Family Member 3",Protein Coding,27.93
+CLIC1,Chloride Intracellular Channel 1,Protein Coding,27.91
+CYP2A6,Cytochrome P450 Family 2 Subfamily A Member 6,Protein Coding,27.9
+LOXL2,Lysyl Oxidase Like 2,Protein Coding,27.88
+HSPA9,Heat Shock Protein Family A (Hsp70) Member 9,Protein Coding,27.87
+TIGAR,TP53 Induced Glycolysis Regulatory Phosphatase,Protein Coding,27.82
+GAL,Galanin And GMAP Prepropeptide,Protein Coding,27.81
+HSPD1,Heat Shock Protein Family D (Hsp60) Member 1,Protein Coding,27.79
+PIGR,Polymeric Immunoglobulin Receptor,Protein Coding,27.79
+ENO2,Enolase 2,Protein Coding,27.72
+INHBA,Inhibin Subunit Beta A,Protein Coding,27.68
+HSPH1,Heat Shock Protein Family H (Hsp110) Member 1,Protein Coding,27.68
+CRYGC,Crystallin Gamma C,Protein Coding,27.66
+CP,Ceruloplasmin,Protein Coding,27.58
+NOX1,NADPH Oxidase 1,Protein Coding,27.57
+RSPO2,R-Spondin 2,Protein Coding,27.57
+EDN1,Endothelin 1,Protein Coding,27.53
+RAD50,RAD50 Double Strand Break Repair Protein,Protein Coding,27.51
+GLS,Glutaminase,Protein Coding,27.47
+BAG1,BAG Cochaperone 1,Protein Coding,27.43
+BARD1,BRCA1 Associated RING Domain 1,Protein Coding,27.41
+IGFBP1,Insulin Like Growth Factor Binding Protein 1,Protein Coding,27.4
+ACP1,Acid Phosphatase 1,Protein Coding,27.38
+PTHLH,Parathyroid Hormone Like Hormone,Protein Coding,27.37
+IL2RA,Interleukin 2 Receptor Subunit Alpha,Protein Coding,27.36
+GHRL,Ghrelin And Obestatin Prepropeptide,Protein Coding,27.33
+PTPRC,Protein Tyrosine Phosphatase Receptor Type C,Protein Coding,27.29
+CBL,Cbl Proto-Oncogene,Protein Coding,27.29
+ADH1B,"Alcohol Dehydrogenase 1B (Class I), Beta Polypeptide",Protein Coding,27.28
+SHMT2,Serine Hydroxymethyltransferase 2,Protein Coding,27.25
+CHFR,Checkpoint With Forkhead And Ring Finger Domains,Protein Coding,27.25
+ROR2,Receptor Tyrosine Kinase Like Orphan Receptor 2,Protein Coding,27.25
+ATF4,Activating Transcription Factor 4,Protein Coding,27.23
+SELL,Selectin L,Protein Coding,27.18
+IL1RN,Interleukin 1 Receptor Antagonist,Protein Coding,27.17
+PTPRA,Protein Tyrosine Phosphatase Receptor Type A,Protein Coding,27.16
+SGPL1,Sphingosine-1-Phosphate Lyase 1,Protein Coding,27.12
+APOE,Apolipoprotein E,Protein Coding,27.1
+EIF4E,Eukaryotic Translation Initiation Factor 4E,Protein Coding,27.06
+PTPN6,Protein Tyrosine Phosphatase Non-Receptor Type 6,Protein Coding,27.06
+AKR1B10,Aldo-Keto Reductase Family 1 Member B10,Protein Coding,27.04
+MYCN,"MYCN Proto-Oncogene, BHLH Transcription Factor",Protein Coding,27.02
+ENDOG,Endonuclease G,Protein Coding,27.02
+H3C12,H3 Clustered Histone 12,Protein Coding,27
+HAVCR2,Hepatitis A Virus Cellular Receptor 2,Protein Coding,26.99
+H3-3B,H3.3 Histone B,Protein Coding,26.99
+EIF4A1,Eukaryotic Translation Initiation Factor 4A1,Protein Coding,26.99
+MS4A12,Membrane Spanning 4-Domains A12,Protein Coding,26.99
+FH,Fumarate Hydratase,Protein Coding,26.99
+ITGAM,Integrin Subunit Alpha M,Protein Coding,26.96
+SPRY2,Sprouty RTK Signaling Antagonist 2,Protein Coding,26.95
+NOS3,Nitric Oxide Synthase 3,Protein Coding,26.95
+H3-4,"H3.4 Histone, Cluster Member",Protein Coding,26.95
+EPO,Erythropoietin,Protein Coding,26.94
+KDM3A,Lysine Demethylase 3A,Protein Coding,26.93
+H3-5,H3.5 Histone,Protein Coding,26.93
+H3C13,H3 Clustered Histone 13,Protein Coding,26.92
+H3-7,H3.7 Histone (Putative),Protein Coding,26.92
+GSTA1,Glutathione S-Transferase Alpha 1,Protein Coding,26.9
+CYP17A1,Cytochrome P450 Family 17 Subfamily A Member 1,Protein Coding,26.89
+NDRG2,NDRG Family Member 2,Protein Coding,26.89
+KLK6,Kallikrein Related Peptidase 6,Protein Coding,26.88
+PLD2,Phospholipase D2,Protein Coding,26.87
+HP,Haptoglobin,Protein Coding,26.87
+GLI3,GLI Family Zinc Finger 3,Protein Coding,26.85
+FUT2,Fucosyltransferase 2,Protein Coding,26.84
+TAGLN,Transgelin,Protein Coding,26.84
+BMP7,Bone Morphogenetic Protein 7,Protein Coding,26.79
+RPS27A,Ribosomal Protein S27a,Protein Coding,26.78
+CCL2,C-C Motif Chemokine Ligand 2,Protein Coding,26.78
+CRK,"CRK Proto-Oncogene, Adaptor Protein",Protein Coding,26.78
+FOXO4,Forkhead Box O4,Protein Coding,26.77
+PRDX1,Peroxiredoxin 1,Protein Coding,26.74
+HIPK2,Homeodomain Interacting Protein Kinase 2,Protein Coding,26.73
+PEBP1,Phosphatidylethanolamine Binding Protein 1,Protein Coding,26.72
+G6PD,Glucose-6-Phosphate Dehydrogenase,Protein Coding,26.71
+ALDOA,"Aldolase, Fructose-Bisphosphate A",Protein Coding,26.66
+LAG3,Lymphocyte Activating 3,Protein Coding,26.64
+XPA,"XPA, DNA Damage Recognition And Repair Factor",Protein Coding,26.61
+QKI,"QKI, KH Domain Containing RNA Binding",Protein Coding,26.6
+IDO1,"Indoleamine 2,3-Dioxygenase 1",Protein Coding,26.58
+CCNL2,Cyclin L2,Protein Coding,26.57
+GPX3,Glutathione Peroxidase 3,Protein Coding,26.57
+UPP1,Uridine Phosphorylase 1,Protein Coding,26.55
+PDPK1,3-Phosphoinositide Dependent Protein Kinase 1,Protein Coding,26.55
+TP63,Tumor Protein P63,Protein Coding,26.54
+GOT2,Glutamic-Oxaloacetic Transaminase 2,Protein Coding,26.52
+FES,"FES Proto-Oncogene, Tyrosine Kinase",Protein Coding,26.51
+CSF1R,Colony Stimulating Factor 1 Receptor,Protein Coding,26.51
+SELENOP,Selenoprotein P,Protein Coding,26.49
+SND1,Staphylococcal Nuclease And Tudor Domain Containing 1,Protein Coding,26.49
+CHKA,Choline Kinase Alpha,Protein Coding,26.48
+SPHK2,Sphingosine Kinase 2,Protein Coding,26.46
+FYN,"FYN Proto-Oncogene, Src Family Tyrosine Kinase",Protein Coding,26.46
+ROCK2,Rho Associated Coiled-Coil Containing Protein Kinase 2,Protein Coding,26.46
+TKTL1,Transketolase Like 1,Protein Coding,26.46
+IL17A,Interleukin 17A,Protein Coding,26.45
+ITGA1,Integrin Subunit Alpha 1,Protein Coding,26.44
+NKX2-1,NK2 Homeobox 1,Protein Coding,26.44
+EZH2,Enhancer Of Zeste 2 Polycomb Repressive Complex 2 Subunit,Protein Coding,26.4
+PTPRR,Protein Tyrosine Phosphatase Receptor Type R,Protein Coding,26.4
+FUT6,Fucosyltransferase 6,Protein Coding,26.39
+RORA,RAR Related Orphan Receptor A,Protein Coding,26.36
+ITGB6,Integrin Subunit Beta 6,Protein Coding,26.34
+KHDRBS1,"KH RNA Binding Domain Containing, Signal Transduction Associated 1",Protein Coding,26.33
+VDR,Vitamin D Receptor,Protein Coding,26.32
+LTF,Lactotransferrin,Protein Coding,26.31
+NANOG,Nanog Homeobox,Protein Coding,26.31
+CD24,CD24 Molecule,Protein Coding,26.21
+TCHP,Trichoplein Keratin Filament Binding,Protein Coding,26.15
+HMGA1,High Mobility Group AT-Hook 1,Protein Coding,26.15
+ALDOB,"Aldolase, Fructose-Bisphosphate B",Protein Coding,26.15
+PRKAB1,Protein Kinase AMP-Activated Non-Catalytic Subunit Beta 1,Protein Coding,26.1
+POU5F1,POU Class 5 Homeobox 1,Protein Coding,26.08
+ADAM9,ADAM Metallopeptidase Domain 9,Protein Coding,26.02
+SLC25A16,Solute Carrier Family 25 Member 16,Protein Coding,25.98
+FZD9,Frizzled Class Receptor 9,Protein Coding,25.97
