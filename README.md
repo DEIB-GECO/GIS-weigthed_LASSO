@@ -11,17 +11,16 @@ We compared the performance of the standard regularized LASSO model and our prop
 To perform the weighted LASSO in Python using the scikit-learn library, we modified the corresponding functions using the development version of scikit-learn. 
 The modified package is available at https://github.com/SofSof98/scikit-learn-lasso/tree/weightedlasso.
 After cloning the repository, build a dedicated environment with:
-'''
+```bash
 conda create -n sklearn-env -c conda-forge python=3.9 numpy scipy cython=0.29.33 
-conda activate sklearn-env 
-'''
+conda activate sklearn-env
+```
 
-Then build the scikit-learn package with:
-'''
+Then, build the scikit-learn package with:
+```bash
 cd scikit-learn-lasso 
 pip install -v --no-use-pep517 --no-build-isolation -e . 
-'''
-
+```
 Lastly, install the required packages from requirements.txt
 
 
