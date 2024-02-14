@@ -87,7 +87,7 @@ def save_dict(dictionary,filename):
 if __name__ == "__main__":
 
     import sys
-    sys.path.append("/home/mongardi/Metagene_repo/src")
+    sys.path.append("src")
     from Parser import get_args
     args = get_args()
     results_dire =  args.save_files_dir

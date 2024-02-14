@@ -9,7 +9,7 @@ from create_reactome_pathways_matrix import Reactome_pathways_matrix
 from create_hpo_matrix import hpo_matrix
 from utils.utils import * 
 
-sys.path.append("/home/mongardi/Metagene_repo/src")
+sys.path.append("src")
 from Parser import get_args
 
 

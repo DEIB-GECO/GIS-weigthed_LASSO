@@ -1,3 +1,20 @@
+""" Script to compute the affinity matrix for the Fisher's score.
+
+Reference:
+-----
+Li, J., Cheng, K., Wang, S., Morstatter, F., Trevino, R. P., Tang, J., & Liu, H. (2017)
+Feature Selection: A Data Perspective,
+ACM Computer Surveys, 50(6),
+https://doi.org/10.1145/3136625
+
+Original code:
+-----
+https://github.com/jundongl/scikit-feature/blob/master/skfeature/utility/construct_W.py
+
+"""
+
+
+
 import numpy as np
 from scipy.sparse import *
 from sklearn.metrics.pairwise import pairwise_distances

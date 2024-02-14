@@ -1,3 +1,19 @@
+""" Script to compute the Fisher's score.
+
+Reference:
+-----
+Li, J., Cheng, K., Wang, S., Morstatter, F., Trevino, R. P., Tang, J., & Liu, H. (2017)
+Feature Selection: A Data Perspective,
+ACM Computer Surveys, 50(6),
+https://doi.org/10.1145/3136625
+
+Original code:
+-----
+https://github.com/jundongl/scikit-feature/blob/master/skfeature/function/similarity_based/fisher_score.py
+
+"""
+
+
 import numpy as np
 from scipy.sparse import *
 from utils. construct_W import construct_W
@@ -43,6 +59,7 @@ def fisher_score(X, y):
     t1 = np.transpose(np.dot(Xt, D.todense()))
     t2 = np.transpose(np.dot(Xt, L.todense()))
     #print(t1.shape)
+
     #print(t2.shape)
     # compute the numerator of Lr
     #print(np.sum(np.multiply(t1, X), 0).shape)

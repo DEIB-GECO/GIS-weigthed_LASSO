@@ -14,7 +14,7 @@ class Reactome_pathways_matrix:
     def load_dataset(self, idx=0):
 
         df = pd.read_csv(self.filename)
-        df_ind = df.set_index(df.columns[0].split())
+        df_ind = df.set_index(df.columns[idx].split())
         return df_ind
     
     def load_sys_dataset(self, idx=0):
@@ -88,7 +88,7 @@ class Reactome_pathways_matrix:
     
     def get_symbol_matrix(self, m):
 
-        #sys_df =  self.load_dataset('/home/mongardi/Metagene/GO_ann/genes_and_ids_all_red.csv', idx=1)
+
         sys_df =  self.load_sys_dataset(idx=1)
         matrix_new = pd.DataFrame(np.zeros((len(self.genes_list), m.shape[1])),index = self.genes_list, columns= m.columns)
         #matrix = m.drop_duplicates()

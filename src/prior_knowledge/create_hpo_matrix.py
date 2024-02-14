@@ -146,7 +146,7 @@ class hpo_matrix:
 
     def get_symbol_matrix(self, m, return_df= False):
 
-        sys_df =  load_dataset('/home/mongardi/Metagene/GO_ann/genes_and_ids_all_red.csv', idx=1)
+        sys_df =  load_dataset(self.ids_file, idx=1)
         matrix_new = pd.DataFrame(np.zeros((len(self.genes_list), m.shape[1])),index = self.genes_list, columns= m.columns)
         #print(sys_df.head())
         # build gis dict
@@ -225,55 +225,8 @@ class hpo_matrix:
         scrs = d1.sum(axis=1)/d2.sum(axis=1)
         #scrs_genes = scrs.loc[gene_set]
         return scrs
-    
-    def get_gene_ids_from_sys(self, genes_list, verbose=True):
 
-        sys_df =  load_dataset(self.ids_file, idx=0)
-        gis_df = load_dataset('/home/mongardi/Metagene/GO_ann/gis_scores_norm.csv')
-        merged = sys_df.merge(gis_df, right_on=gis_df.index, left_index=True)
-        merged = merged.sort_values('0', ascending=False).drop_duplicates('symbol')
-        merged = merged.set_index('symbol')
-        #print(merged.shape[0])
-        #print(merged.head())
-
-        #genes_list = [x.split('.1')[0] for x in genes_list]
-        #print(len(genes_list))
-        #genes_sys= list(set(genes_list) & set(merged.index))
-        genes_sys = [gene for gene in genes_list if gene in merged.index]
-        #print([gene for gene in genes_list if gene not in merged.index])
-        if verbose:
-            print('Number of selected genes with GO annotations:' ,len(genes_sys))
-        else:
-            print('The total number of genes with GO annotations in the dataset:' ,len(genes_sys))
-        
-        genes_ids =  merged.loc[genes_sys][merged.columns[0]].values
-        genes_ids = [str(x) for x in genes_ids]
-        return genes_ids
-    
-    def get_dict_gene_sys_from_ids(self, genes_list, verbose=True):
-
-        sys_df =  load_dataset(self.ids_file, idx=0)
-        gis_df = load_dataset('/home/mongardi/Metagene/GO_ann/gis_scores_norm.csv')
-        merged = sys_df.merge(gis_df, right_on=gis_df.index, left_index=True)
-        merged = merged.sort_values('0', ascending=False).drop_duplicates('symbol')
-        merged = merged.set_index('symbol')
-        #print(merged.shape[0])
-        #print(merged.head())
-
-        #genes_list = [x.split('.1')[0] for x in genes_list]
-        #print(len(genes_list))
-        #genes_sys= list(set(genes_list) & set(merged.index))
-        genes_sys = [gene for gene in genes_list if gene in merged.index]
-        #print([gene for gene in genes_list if gene not in merged.index])
-        if verbose:
-            print('Number of selected genes with GO annotations:' ,len(genes_sys))
-        else:
-            print('The total number of genes with GO annotations in the dataset:' ,len(genes_sys))
-        
-        genes_ids =  merged.loc[genes_sys][merged.columns[0]].values
-        genes_ids = [str(x) for x in genes_ids]
-        return genes_ids
-    
+   
     def get_sum_annotations(self, genes_subset):
         
         ids = self.get_gene_ids_from_sys(genes_subset)

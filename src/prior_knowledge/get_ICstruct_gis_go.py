@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from create_go_matrix import go_matrix
 from utils.create_dag_go import unfold_dag
 from utils.utils import *
-sys.path.append("/home/mongardi/Metagene_repo/src")
+sys.path.append("src")
 from Parser import get_args
 # set directory
 

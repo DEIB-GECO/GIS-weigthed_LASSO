@@ -11,18 +11,19 @@ from sklearn.metrics import recall_score, precision_score
 import random
 import json
 import sys
-sys.path.append("/home/mongardi/Metagene_repo/src")
+dire = '/home/mongardi/GIS_prior_knowledge'
+
+sys.path.append(os.path.join(dire, "src"))
 from run_experiments import *
 from utils.utils import * 
 from get_wgis_scores import*
 
-dire_kidney= '/home/mongardi/Metagene_repo/data/data_kidney'
-dire_r = '/home/mongardi/Metagene_repo/results/gis_sensitibity_analysis/rounds'
-dire_1 = '/home/mongardi/Metagene_repo/data/prior_knowledge/genes_and_ids_all_red.csv'
-dire_2 = '/home/mongardi/Metagene_repo/data/prior_knowledge/gene_scores_norm_go.csv'
+dire_kidney = os.path.join(dire,'/data/data_kidney')
+dire_r =  os.path.join(dire,'results/gis_sensitibity_analysis')
+dire_1 = os.path.join(dire,'/data/prior_knowledge/genes_and_ids_all_red.csv')
+dire_2 = os.path.join(dire,'/data/prior_knowledge/gene_scores_norm_go.csv')
 
-genes_set = load_txt('/home/mongardi/Metagene/Cancer/scripts/kidney_multicol/controlled_features.txt')
-
+genes_set = load_txt(os.path.join(dire_kidney, 'controlled_features.txt'))
 df = pd.read_csv(os.path.join(dire_kidney, 'Kidney_df_tr_coding_new.csv'))
 df = shuffle(df, random_state=42)
 df.set_index(df.columns[0], inplace=True)
