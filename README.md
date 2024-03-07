@@ -13,7 +13,7 @@ For all datasets analysed, the data are preprocessed as described in the noteboo
 
 ## Implementation
 To perform the weighted LASSO in Python using the scikit-learn library, we modified the corresponding functions using the development version of scikit-learn. 
-The modified package is available at https://github.com/SofSof98/scikit-learn-lasso/tree/weightedlasso.
+The modified package is available [here](https://github.com/SofSof98/scikit-learn-lasso/tree/weightedlasso).
 After cloning the repository, build a dedicated environment with:
 ```bash
 conda create -n sklearn-env -c conda-forge python=3.9 numpy scipy cython=0.29.33 
