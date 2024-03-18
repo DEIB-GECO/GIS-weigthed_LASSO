@@ -32,6 +32,7 @@ We computed the score of biological relevance using the specific versions of the
 - GO (format-version 1.2, release date: 2023-03-06) 
 - Reactome (version V85)
 - HPO (format-version 1.2, release date: 2023-09-01)
+
 To download and use the updated versions, run [this notebook](https://github.com/DEIB-GECO/GIS-weigthed_LASSO/blob/main/notebooks/get_updated_prior_knowldge.ipynb). We used the [biomaRt](https://bioconductor.org/packages/release/bioc/html/biomaRt.html) R library (version 2.56.1) to extract all available GO annotation terms. To obtained updated GO annotation terms for each gene run the R script [here](https://github.com/DEIB-GECO/GIS-weigthed_LASSO/tree/main/src/R).
 
 ## Additional Information
